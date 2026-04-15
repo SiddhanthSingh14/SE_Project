@@ -1,15 +1,8 @@
-# ODDO-Hackathon
 # Team members :-
-1. Siddhanth Singh (Team Leader)
-2. Devansh Tilala
-3. Dax Patel
-4. Tirth Soni
-
-# Mentor Name :- Divyesh Vyas 
+1. Siddhanth Singh (24BCP266)
+2. Dax Patel (24BCP269)
 
 Problem statement - GearGuard: The Ultimate Maintenance Tracker
-
-
 
 # GearGuard - Django + React Application
 
